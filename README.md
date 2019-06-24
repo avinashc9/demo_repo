@@ -1,5 +1,2 @@
-:wq
 
-B
-
-#This is my NetOps Automation L
+#This is my NetOps Automation LAB.
