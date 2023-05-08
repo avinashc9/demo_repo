@@ -1,2 +1,1 @@
-
-#This is my NetOps Automation LAB.
+This is updated Readme text.
